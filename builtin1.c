@@ -1,7 +1,8 @@
 #include "shell.h"
 
 /**
- * _myhistory - shows the history list line by line, command by command, preceded
+ * _myhistory - shows the history list line by line
+ *  command by command, preceded
  *              with line numbers, beginning at 0.
  * @info: Arrangement with possible arguments . Used to maintain
  *        continous function prototype.

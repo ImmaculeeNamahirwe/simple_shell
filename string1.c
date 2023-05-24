@@ -57,7 +57,7 @@ void _puts(char *str)
 	while (str[counter] != '\0')
 	{
 		_putchar(str[counter]);
-		i++;
+		counter++;
 	}
 }
 
@@ -80,4 +80,3 @@ int _putchar(char c)
 		buf[counter++] = c;
 	return (1);
 }
-

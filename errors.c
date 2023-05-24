@@ -65,7 +65,7 @@ int _putfd(char c, int fd)
 }
 
 /**
- *_putsfd - Prints a string of input 
+ *_putsfd - Prints a string of input
  * @str: printes the string
  * @fd: Write the descriptive file
  *
