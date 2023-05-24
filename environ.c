@@ -75,7 +75,7 @@ int _myunsetenv(info_t *info)
 }
 
 /**
- * populate_environment_list - fills in the env linked list
+ * populate_env_list -A function fills in the env linked list
  * @info: Structure containing potential arguments. Used to maintain
  *          constinous function prototype.
  * Return: Usually 0

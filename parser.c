@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * is_cmd - A function to determines if a file is an 
+ * is_cmd - A function to determines if a file is an
  * executable command
  * @info: the info struct
  * @path: path to the file

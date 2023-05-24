@@ -122,7 +122,8 @@ char *convert_number(long int num, int base, int flags)
 }
 
 /**
- * remove_comments - initial occurrence is replaced with function of '#' with '\0'
+ * remove_comments - initial occurrence is replaced
+ * with function of '#' with '\0'
  * @buf: address of the modified string
  *
  * Return: Usually 0;
